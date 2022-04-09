@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1608989263 source:c:\users\afer\desktop\c++ projects\pa3\main.cpp
+	<iostream>
+	"Node.h"
+	"HashTable.h"
+	<time.h>
+	<math.h>
+	<fstream>
+	<sstream>
+	<string>
+
+1608988518 c:\users\afer\desktop\c++ projects\pa3\hashtable.h
+	<math.h>
+
+1608984489 c:\users\afer\desktop\c++ projects\pa3\node.h
+
+1609362495 source:c:\users\afer\desktop\c++ projects\pa^3\hashing\main.cpp
+	<iostream>
+	"Node.h"
+	"HashTable.h"
+	<time.h>
+	<math.h>
+	<fstream>
+	<sstream>
+	<string>
+
+1608984489 c:\users\afer\desktop\c++ projects\pa^3\hashing\node.h
+
+1609363169 c:\users\afer\desktop\c++ projects\pa^3\hashing\hashtable.h
+	<math.h>
+

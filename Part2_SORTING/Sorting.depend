@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1609534216 source:c:\users\afer\desktop\c++ projects\pa^3\sorting\sorting\main.cpp
+	<iostream>
+	"SortingAlgorithms.h"
+	<ctime>
+	<fstream>
+	<sstream>
+	<string>
+
+1609542153 c:\users\afer\desktop\c++ projects\pa^3\sorting\sorting\sortingalgorithms.h
+
+1609665882 source:c:\users\afer\desktop\c++ projects\ee441_pa3_afer_olkay_2305126\sorting\main.cpp
+	<iostream>
+	"SortingAlgorithms.h"
+	<ctime>
+	<fstream>
+	<sstream>
+	<string>
+
+1609542153 c:\users\afer\desktop\c++ projects\ee441_pa3_afer_olkay_2305126\sorting\sortingalgorithms.h
+
+1609686020 source:c:\users\afer\desktop\c++ projects\ee441_pa3_afer_olkay_2305126\part2_sorting\main.cpp
+	<iostream>
+	"SortingAlgorithms.h"
+	<ctime>
+	<fstream>
+	<sstream>
+	<string>
+
+1609542153 c:\users\afer\desktop\c++ projects\ee441_pa3_afer_olkay_2305126\part2_sorting\sortingalgorithms.h
+
